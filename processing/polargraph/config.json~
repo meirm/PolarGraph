@@ -1,0 +1,17 @@
+{
+"Plotters":[
+{
+"name": "Dash Plotter",
+"selected": 1,
+"pulleyRadius": 90.0,
+"stepsPerRevolution": 1600,
+"welcomeNote": "hello world",
+},
+{
+"name": "Banggood Plotter",
+"selected": 0,
+"pulleyRadius": 90.0,
+"stepsPerRevolution": 400,
+}
+]
+}

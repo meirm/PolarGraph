@@ -1,0 +1,32 @@
+{
+"Plotters":[
+{
+"name": "Dash Plotter",
+"selected": 1,
+"pulleyRadius": 90.0,
+"stepsPerRevolution": 1600,
+"welcomeNote": "LeadStudio drivers",
+"DistBetweenPulleys": 5200.0,
+"HomeLocationY":2800.0,
+"HomeLocationX":2600.0,
+"MINRPM": 10,
+"STARTRPM": 20,
+"MAXRPM": 30,
+"Status": "Active",
+},
+{
+"name": "Banggood Plotter",
+"selected": 0,
+"pulleyRadius": 90.0,
+"stepsPerRevolution": 400,
+"welcomeNote": "simple drivers",
+"DistBetweenPulleys": 5200.0,
+"HomeLocationY":2800.0,
+"HomeLocationX":2600.0,
+"MINRPM": 10,
+"STARTRPM": 20,
+"MAXRPM": 30,
+"Status": "Active",
+}
+]
+}
